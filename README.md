@@ -160,9 +160,11 @@ If you use this workflow, please cite this repository and the associated academi
 
 ### User communities detected with Louvain
 
-![User communities](comunidades1.png)
-![User communities](comunidades2.png)
+![Louvain user communities](figures/comunidades1.png)
 
+### Additional network visualization
+
+![Community network](figures/comunidades2.png)
 
 ---
 
