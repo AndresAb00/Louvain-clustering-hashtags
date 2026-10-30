@@ -160,8 +160,8 @@ If you use this workflow, please cite this repository and the associated academi
 
 ### User communities detected with Louvain
 
-![User communities](gephi-lite-FA.png)
-![User communities](gephi-lite-export.png)
+![User communities](comunidades1.png)
+![User communities](comunidades2.png)
 
 
 ---
