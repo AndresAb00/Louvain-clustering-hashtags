@@ -1,11 +1,11 @@
 # Louvain clustering of hashtags
 
-Código modular del análisis de comunidades de usuarios mediante hashtags.
+Código modular del análisis de comunidades de usuarios por implementación de hashtags.
 
 ## Ejecutar
 
 1. Instalar `tidyverse`, `stringi` e `igraph`.
-2. Proveer localmente `dados01.RData` (contiene un objeto `Data`), sin subirlo a GitHub.
+2. Proveer localmente `dados01.RData` (contiene un objeto `Data`), que no fue subido a GitHub por presencia de datos no publicables.
 3. Abrir RStudio con la carpeta del proyecto como directorio de trabajo.
 4. Ejecutar `source("main.R", encoding = "UTF-8")`.
 
