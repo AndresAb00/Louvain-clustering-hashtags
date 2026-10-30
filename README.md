@@ -156,6 +156,13 @@ This project forms part of a master's thesis in **Information and Communication*
 ## How to cite
 
 If you use this workflow, please cite this repository and the associated academic publication or thesis **when its full bibliographic information is available**. A versioned release and `CITATION.cff` file can be added once the citation details are finalized.
+## Network Visualizations
+
+### User communities detected with Louvain
+
+![User communities](gephi-lite-FA.png)
+![User communities](gephi-lite-export.png)
+
 
 ---
 
