@@ -1,0 +1,7 @@
+*.RData
+*.Rdata
+*.rds
+.Rhistory
+.Rproj.user/
+data/*
+!data/README.md
